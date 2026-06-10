@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mshingo.netlify.app/sitemap.xml
+Sitemap: https://elmshingo.netlify.app/sitemap.xml
